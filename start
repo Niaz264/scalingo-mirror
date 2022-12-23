@@ -1,3 +1,3 @@
-git clone https://github.com/ITZ-ZAID/Telethon-Music XYZ
+git clone https://github.com/Sam-Max/rclone-mirror-leech-telegram-bot XYZ
 cd XYZ
-python3 -m Zaid
+python3 update.py && python3 -m bot
